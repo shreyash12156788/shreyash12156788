@@ -1,0 +1,419 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1180"
+     height="610"
+     viewBox="0 0 1180 610"
+     role="img"
+     aria-label="Shreyash Chavan — Cybersecurity Explorer">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#07111F"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+
+    <!-- Cyan / Violet glow -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        values="-0.3 0;0.3 0;-0.3 0"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+    <clipPath id="scanClip">
+      <rect x="35" y="75" width="1110" height="500" rx="22"/>
+    </clipPath>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
+
+  <!-- Ambient glow -->
+  <circle cx="210" cy="270" r="260" fill="url(#glow)">
+    <animate
+      attributeName="opacity"
+      values=".5;1;.5"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="950" cy="380" r="300" fill="url(#glow)">
+    <animate
+      attributeName="opacity"
+      values="1;.4;1"
+      dur="7s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Outer border -->
+  <rect x="18" y="18"
+        width="1144"
+        height="574"
+        rx="24"
+        fill="none"
+        stroke="url(#accent)"
+        stroke-width="1.5"
+        opacity=".8"/>
+
+  <!-- Terminal header -->
+  <rect x="35" y="35"
+        width="1110"
+        height="40"
+        rx="12"
+        fill="#0F172A"
+        fill-opacity=".85"
+        stroke="#334155"
+        stroke-width="1"/>
+
+  <!-- Terminal buttons -->
+  <circle cx="58" cy="55" r="6" fill="#EF4444"/>
+  <circle cx="78" cy="55" r="6" fill="#EAB308"/>
+  <circle cx="98" cy="55" r="6" fill="#22C55E"/>
+
+  <text x="125" y="60"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="14">
+    shreyash@security:~$
+  </text>
+
+  <text x="1020" y="60"
+        fill="#10B981"
+        font-family="monospace"
+        font-size="13">
+    ● ONLINE
+  </text>
+
+  <!-- LEFT PANEL -->
+  <rect x="35" y="90"
+        width="405"
+        height="485"
+        rx="20"
+        fill="#0F172A"
+        fill-opacity=".55"
+        stroke="#334155"
+        stroke-width="1"/>
+
+  <text x="60" y="125"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="3">
+    VISUAL.MAP
+  </text>
+
+  <!-- Cybersecurity shield -->
+  <path d="M238 155
+           L305 180
+           L305 245
+           C305 300 270 335 238 350
+           C206 335 171 300 171 245
+           L171 180 Z"
+        fill="#07111F"
+        stroke="url(#accent)"
+        stroke-width="3">
+
+    <animate
+      attributeName="opacity"
+      values=".65;1;.65"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <!-- Shield lock -->
+  <rect x="215" y="235"
+        width="46"
+        height="38"
+        rx="7"
+        fill="#22D3EE"
+        fill-opacity=".15"
+        stroke="#22D3EE"
+        stroke-width="2"/>
+
+  <path d="M224 235
+           V221
+           C224 201 252 201 252 221
+           V235"
+        fill="none"
+        stroke="#22D3EE"
+        stroke-width="4"/>
+
+  <circle cx="238" cy="252" r="4" fill="#22D3EE"/>
+
+  <!-- Scanning line -->
+  <rect x="80" y="160"
+        width="315"
+        height="2"
+        fill="#22D3EE"
+        opacity=".55">
+    <animate
+      attributeName="y"
+      values="150;350;150"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <text x="238" y="385"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold">
+    CYBERSECURITY
+  </text>
+
+  <text x="238" y="414"
+        text-anchor="middle"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="18">
+    EXPLORER
+  </text>
+
+  <text x="238" y="455"
+        text-anchor="middle"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="13">
+    LEARNING • BUILDING • SECURING
+  </text>
+
+  <!-- Terminal command -->
+  <text x="65" y="510"
+        fill="#10B981"
+        font-family="monospace"
+        font-size="13">
+    ~/profile $ ./security.sh
+  </text>
+
+  <text x="65" y="535"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="12">
+    initializing security modules...
+  </text>
+
+  <text x="65" y="557"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="12">
+    [✓] SYSTEM READY
+  </text>
+
+  <!-- RIGHT PANEL -->
+  <rect x="465" y="90"
+        width="680"
+        height="485"
+        rx="20"
+        fill="#0F172A"
+        fill-opacity=".65"
+        stroke="#334155"
+        stroke-width="1"/>
+
+  <text x="495" y="125"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="3">
+    SYSTEM.INFO
+  </text>
+
+  <text x="495" y="158"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="13">
+    user@security:~$ ./profile.sh
+  </text>
+
+  <!-- Name -->
+  <text x="495" y="200"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="13">
+    &gt; NAME
+  </text>
+
+  <text x="635" y="200"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="18"
+        font-weight="bold">
+    Shreyash Chavan
+  </text>
+
+  <!-- Role -->
+  <text x="495" y="235"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="13">
+    &gt; ROLE
+  </text>
+
+  <text x="635" y="235"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="16">
+    Cybersecurity Explorer
+  </text>
+
+  <!-- Focus -->
+  <text x="495" y="270"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="13">
+    &gt; FOCUS
+  </text>
+
+  <text x="635" y="270"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="15">
+    Security • Cloud • Linux
+  </text>
+
+  <!-- Learning -->
+  <text x="495" y="305"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="13">
+    &gt; LEARNING
+  </text>
+
+  <text x="635" y="305"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="15">
+    Ethical Hacking • SOC
+  </text>
+
+  <!-- Security status -->
+  <rect x="495" y="330"
+        width="610"
+        height="70"
+        rx="12"
+        fill="#07111F"
+        stroke="#1E293B"/>
+
+  <text x="515" y="357"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="12">
+    SECURITY STATUS
+  </text>
+
+  <text x="515" y="382"
+        fill="#10B981"
+        font-family="monospace"
+        font-size="15">
+    ● ONLINE
+  </text>
+
+  <text x="660" y="382"
+        fill="#64748B"
+        font-family="monospace"
+        font-size="13">
+    SCANNING
+  </text>
+
+  <!-- Progress -->
+  <rect x="760" y="370"
+        width="300"
+        height="7"
+        rx="4"
+        fill="#1E293B"/>
+
+  <rect x="760" y="370"
+        width="0"
+        height="7"
+        rx="4"
+        fill="url(#accent)">
+    <animate
+      attributeName="width"
+      values="0;260;120;300"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Skills -->
+  <text x="495" y="435"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2">
+    CORE.STACK
+  </text>
+
+  <text x="495" y="465"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="14">
+    C++   Java   Linux   Networking
+  </text>
+
+  <text x="495" y="493"
+        fill="#94A3B8"
+        font-family="monospace"
+        font-size="13">
+    Android   Firebase   Git/GitHub   AI
+  </text>
+
+  <!-- Projects -->
+  <text x="495" y="530"
+        fill="#22D3EE"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2">
+    BUILDING
+  </text>
+
+  <text x="495" y="554"
+        fill="#F8FAFC"
+        font-family="monospace"
+        font-size="13">
+    MediScan AI • FocusLock • PetCare AI • TradePulse AI
+  </text>
+
+  <!-- Cursor -->
+  <rect x="1088" y="545"
+        width="8"
+        height="15"
+        fill="#22D3EE">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle scanline -->
+  <rect x="35" y="90"
+        width="1110"
+        height="2"
+        fill="#22D3EE"
+        opacity=".08"
+        clip-path="url(#scanClip)">
+    <animate
+      attributeName="y"
+      values="90;575;90"
+      dur="9s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
