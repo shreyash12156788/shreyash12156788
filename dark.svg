@@ -1,419 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1180"
-     height="610"
-     viewBox="0 0 1180 610"
-     role="img"
-     aria-label="Shreyash Chavan — Cybersecurity Explorer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2ODU1OTRjNy03ODBmLTRiZTMtOTA2NS02YzQ1YjEzZTc2NjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE7Kpe+LjL5CgJjU80i1kfUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkZWQzMTA5OS0wOTI3LTQxMzktYjhmNS04MjVjMmNkNTYwZjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoi7gJW7UPtB+q5OWuoAuJhAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggeJ3TXyetvOuiZgY5arA61uVVbMIgx3usoBS/5JbC3J+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCcm2KYGS6e4iNVpCzesC5AAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCo0GrEyRCuJ991HzKucX2eVEWnztGGvyhSksllg013n2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjcZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY4NTU5NGM3LTc4MGYtNGJlMy05MDY1LTZjNDViMTNlNzY2Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgxNmE1OGFjLTljZWMtNDIxMi1iY2JmLWYxNjc2ZGM4YjlmNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB4ndNfJ62866JmBjlqsDrW5VVswiDHe6ygFL/klsLcn6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggb3zPPrvVKE57DWDnFB3yr+/XcPbil/ui0MziK0oRivKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggs0F+fvnWx1iTSSSzFsfFARy7lXvljPikuXaSfLxEcZJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAbwLJZuR2pP2SogZ9j59hYQbK/EMcGT1V/B8U8ryc/BdhaYf49gj/CzUy8G7VtRcvcF4zHjswI3QkYiyKld8v8=</c2pa:manifest></metadata>
+<defs>
+<pattern id="stripe" width="28" height="14" patternUnits="userSpaceOnUse"><rect width="28" height="14" fill="#0a0a0c"/><polygon points="0,14 14,0 28,0 14,14" fill="#ff2a3d"/></pattern>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ff2a3d" opacity=".25"/></pattern>
+<radialGradient id="vig" cx="50%" cy="50%" r="70%"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".75"/></radialGradient>
+<radialGradient id="redglow"><stop offset="0" stop-color="#ff2a3d" stop-opacity=".3"/><stop offset="1" stop-color="#ff2a3d" stop-opacity="0"/></radialGradient>
+<pattern id="crt" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".35"/></pattern>
+<clipPath id="card"><rect width="1200" height="460" rx="18"/></clipPath>
+<clipPath id="hexClip"><rect x="780" y="60" width="400" height="380"/></clipPath>
+<clipPath id="c1"><rect x="50" y="240" width="0" height="32"><animate attributeName="width" values="0;0;720;720;0" keyTimes="0;0.071;0.150;.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c2"><rect x="50" y="278" width="0" height="32"><animate attributeName="width" values="0;0;720;720;0" keyTimes="0;0.164;0.243;.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c3"><rect x="50" y="316" width="0" height="32"><animate attributeName="width" values="0;0;720;720;0" keyTimes="0;0.257;0.350;.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>
+.t{fill:#f2f4f8}
+.name{font-size:76px;font-weight:800;letter-spacing:-1px}
+.sub{fill:#ff2a3d;font-size:24px;font-weight:700;letter-spacing:8px}
+.k{fill:#6b7280;font-size:17px}.v{fill:#f2f4f8;font-size:19px;font-weight:700}.a{fill:#ffb020;font-size:19px;font-weight:700}
+.chip{fill:#f2f4f8;font-size:14px;font-weight:700}
+.hud{fill:#ff2a3d;font-size:15px;font-weight:700;letter-spacing:2px}
+.ok{fill:#19e68c;font-size:15px;font-weight:700;letter-spacing:2px}
+.hex{fill:#ff2a3d;font-size:12px;opacity:.16;animation:fall linear infinite}
+.spin{transform-origin:975px 235px;animation:rot 9s linear infinite}
+.rev{transform-origin:975px 235px;animation:rot 5s linear infinite reverse}
+.lock{transform-origin:975px 235px;animation:lock 4s ease-in-out infinite}
+.cur{animation:blink .8s steps(1) infinite}
+.flick{animation:flick 6s steps(1) infinite}
+.g1{fill:#ff2a3d;animation:gl1 3.5s steps(1) infinite;mix-blend-mode:screen}
+.g2{fill:#19d4ff;animation:gl2 3.5s steps(1) infinite;mix-blend-mode:screen}
+.ecg{fill:none;stroke:#ff2a3d;stroke-width:2.2;stroke-dasharray:22 78;animation:ecg 2.2s linear infinite}
+.ecgbase{fill:none;stroke:#ff2a3d;stroke-opacity:.2}
+.ring{fill:none;stroke:#ff2a3d;transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+@keyframes rot{to{transform:rotate(360deg)}}
+@keyframes lock{0%,100%{transform:scale(1.5);opacity:.2}45%,75%{transform:scale(1);opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes flick{0%,93%,96%,100%{opacity:1}94%{opacity:.55}95%{opacity:.9}97%{opacity:.7}}
+@keyframes fall{from{transform:translateY(60px)}to{transform:translateY(-500px)}}
+@keyframes ecg{to{stroke-dashoffset:-100}}
+@keyframes ping{0%{transform:scale(.2);opacity:.9}100%{transform:scale(1.6);opacity:0}}
+@keyframes gl1{0%,86%{transform:translate(0,0);opacity:0}88%{transform:translate(-5px,1px);opacity:.9}91%{transform:translate(4px,-2px);opacity:.9}94%{transform:translate(-3px,0);opacity:.9}96%,100%{transform:translate(0,0);opacity:0}}
+@keyframes gl2{0%,86%{transform:translate(0,0);opacity:0}89%{transform:translate(5px,-1px);opacity:.9}92%{transform:translate(-4px,2px);opacity:.9}95%{transform:translate(3px,0);opacity:.9}96%,100%{transform:translate(0,0);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="460" rx="18" fill="#06070a"/>
+<g clip-path="url(#card)">
+<rect width="1200" height="460" fill="url(#dots)"/>
+<circle cx="975" cy="235" r="240" fill="url(#redglow)"><animate attributeName="opacity" values=".4;1;.4" dur="1.6s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#hexClip)"><text class="hex" style="animation-duration:12.5s;animation-delay:-2.3s"><tspan x="790" dy="15">79</tspan><tspan x="790" dy="15">42</tspan><tspan x="790" dy="15">BD</tspan><tspan x="790" dy="15">F2</tspan><tspan x="790" dy="15">21</tspan><tspan x="790" dy="15">06</tspan><tspan x="790" dy="15">F0</tspan><tspan x="790" dy="15">84</tspan><tspan x="790" dy="15">77</tspan><tspan x="790" dy="15">62</tspan><tspan x="790" dy="15">F0</tspan><tspan x="790" dy="15">F3</tspan><tspan x="790" dy="15">CB</tspan><tspan x="790" dy="15">4D</tspan><tspan x="790" dy="15">76</tspan><tspan x="790" dy="15">4D</tspan><tspan x="790" dy="15">C7</tspan><tspan x="790" dy="15">07</tspan><tspan x="790" dy="15">20</tspan><tspan x="790" dy="15">51</tspan><tspan x="790" dy="15">15</tspan><tspan x="790" dy="15">9A</tspan><tspan x="790" dy="15">0F</tspan><tspan x="790" dy="15">89</tspan><tspan x="790" dy="15">F2</tspan><tspan x="790" dy="15">C6</tspan><tspan x="790" dy="15">DA</tspan><tspan x="790" dy="15">CA</tspan><tspan x="790" dy="15">E3</tspan><tspan x="790" dy="15">44</tspan><tspan x="790" dy="15">BB</tspan><tspan x="790" dy="15">31</tspan><tspan x="790" dy="15">12</tspan><tspan x="790" dy="15">45</tspan></text><text class="hex" style="animation-duration:12.9s;animation-delay:-8.3s"><tspan x="850" dy="15">DF</tspan><tspan x="850" dy="15">9A</tspan><tspan x="850" dy="15">D7</tspan><tspan x="850" dy="15">C5</tspan><tspan x="850" dy="15">B3</tspan><tspan x="850" dy="15">D0</tspan><tspan x="850" dy="15">76</tspan><tspan x="850" dy="15">AC</tspan><tspan x="850" dy="15">0E</tspan><tspan x="850" dy="15">8F</tspan><tspan x="850" dy="15">53</tspan><tspan x="850" dy="15">A7</tspan><tspan x="850" dy="15">35</tspan><tspan x="850" dy="15">6C</tspan><tspan x="850" dy="15">88</tspan><tspan x="850" dy="15">91</tspan><tspan x="850" dy="15">3F</tspan><tspan x="850" dy="15">20</tspan><tspan x="850" dy="15">F6</tspan><tspan x="850" dy="15">F7</tspan><tspan x="850" dy="15">2D</tspan><tspan x="850" dy="15">B0</tspan><tspan x="850" dy="15">22</tspan><tspan x="850" dy="15">D2</tspan><tspan x="850" dy="15">4D</tspan><tspan x="850" dy="15">0A</tspan><tspan x="850" dy="15">96</tspan><tspan x="850" dy="15">DA</tspan><tspan x="850" dy="15">D4</tspan><tspan x="850" dy="15">3C</tspan><tspan x="850" dy="15">16</tspan><tspan x="850" dy="15">17</tspan><tspan x="850" dy="15">C1</tspan><tspan x="850" dy="15">A9</tspan></text><text class="hex" style="animation-duration:9.1s;animation-delay:-5.5s"><tspan x="910" dy="15">8E</tspan><tspan x="910" dy="15">78</tspan><tspan x="910" dy="15">12</tspan><tspan x="910" dy="15">9E</tspan><tspan x="910" dy="15">03</tspan><tspan x="910" dy="15">27</tspan><tspan x="910" dy="15">37</tspan><tspan x="910" dy="15">10</tspan><tspan x="910" dy="15">65</tspan><tspan x="910" dy="15">D0</tspan><tspan x="910" dy="15">95</tspan><tspan x="910" dy="15">86</tspan><tspan x="910" dy="15">4F</tspan><tspan x="910" dy="15">15</tspan><tspan x="910" dy="15">AD</tspan><tspan x="910" dy="15">A0</tspan><tspan x="910" dy="15">B8</tspan><tspan x="910" dy="15">46</tspan><tspan x="910" dy="15">C1</tspan><tspan x="910" dy="15">C0</tspan><tspan x="910" dy="15">EB</tspan><tspan x="910" dy="15">C5</tspan><tspan x="910" dy="15">34</tspan><tspan x="910" dy="15">8A</tspan><tspan x="910" dy="15">DC</tspan><tspan x="910" dy="15">79</tspan><tspan x="910" dy="15">9A</tspan><tspan x="910" dy="15">DF</tspan><tspan x="910" dy="15">84</tspan><tspan x="910" dy="15">9B</tspan><tspan x="910" dy="15">AD</tspan><tspan x="910" dy="15">05</tspan><tspan x="910" dy="15">D4</tspan><tspan x="910" dy="15">A1</tspan></text><text class="hex" style="animation-duration:13.5s;animation-delay:-0.9s"><tspan x="970" dy="15">44</tspan><tspan x="970" dy="15">1E</tspan><tspan x="970" dy="15">AA</tspan><tspan x="970" dy="15">EE</tspan><tspan x="970" dy="15">B4</tspan><tspan x="970" dy="15">B4</tspan><tspan x="970" dy="15">8E</tspan><tspan x="970" dy="15">FA</tspan><tspan x="970" dy="15">0B</tspan><tspan x="970" dy="15">1F</tspan><tspan x="970" dy="15">0A</tspan><tspan x="970" dy="15">BD</tspan><tspan x="970" dy="15">80</tspan><tspan x="970" dy="15">E9</tspan><tspan x="970" dy="15">98</tspan><tspan x="970" dy="15">A3</tspan><tspan x="970" dy="15">5A</tspan><tspan x="970" dy="15">BA</tspan><tspan x="970" dy="15">5E</tspan><tspan x="970" dy="15">A0</tspan><tspan x="970" dy="15">BD</tspan><tspan x="970" dy="15">87</tspan><tspan x="970" dy="15">99</tspan><tspan x="970" dy="15">C1</tspan><tspan x="970" dy="15">35</tspan><tspan x="970" dy="15">0D</tspan><tspan x="970" dy="15">43</tspan><tspan x="970" dy="15">9E</tspan><tspan x="970" dy="15">71</tspan><tspan x="970" dy="15">89</tspan><tspan x="970" dy="15">7A</tspan><tspan x="970" dy="15">A7</tspan><tspan x="970" dy="15">5F</tspan><tspan x="970" dy="15">DE</tspan></text><text class="hex" style="animation-duration:9.0s;animation-delay:-8.5s"><tspan x="1030" dy="15">A4</tspan><tspan x="1030" dy="15">AA</tspan><tspan x="1030" dy="15">72</tspan><tspan x="1030" dy="15">E0</tspan><tspan x="1030" dy="15">56</tspan><tspan x="1030" dy="15">28</tspan><tspan x="1030" dy="15">AC</tspan><tspan x="1030" dy="15">6F</tspan><tspan x="1030" dy="15">E6</tspan><tspan x="1030" dy="15">8A</tspan><tspan x="1030" dy="15">73</tspan><tspan x="1030" dy="15">3D</tspan><tspan x="1030" dy="15">11</tspan><tspan x="1030" dy="15">61</tspan><tspan x="1030" dy="15">A1</tspan><tspan x="1030" dy="15">5D</tspan><tspan x="1030" dy="15">8E</tspan><tspan x="1030" dy="15">AE</tspan><tspan x="1030" dy="15">2B</tspan><tspan x="1030" dy="15">B0</tspan><tspan x="1030" dy="15">42</tspan><tspan x="1030" dy="15">D7</tspan><tspan x="1030" dy="15">95</tspan><tspan x="1030" dy="15">8A</tspan><tspan x="1030" dy="15">ED</tspan><tspan x="1030" dy="15">B1</tspan><tspan x="1030" dy="15">D5</tspan><tspan x="1030" dy="15">94</tspan><tspan x="1030" dy="15">D6</tspan><tspan x="1030" dy="15">D1</tspan><tspan x="1030" dy="15">12</tspan><tspan x="1030" dy="15">D3</tspan><tspan x="1030" dy="15">4F</tspan><tspan x="1030" dy="15">66</tspan></text><text class="hex" style="animation-duration:9.9s;animation-delay:-8.0s"><tspan x="1090" dy="15">DE</tspan><tspan x="1090" dy="15">71</tspan><tspan x="1090" dy="15">10</tspan><tspan x="1090" dy="15">E9</tspan><tspan x="1090" dy="15">93</tspan><tspan x="1090" dy="15">AE</tspan><tspan x="1090" dy="15">74</tspan><tspan x="1090" dy="15">22</tspan><tspan x="1090" dy="15">92</tspan><tspan x="1090" dy="15">3D</tspan><tspan x="1090" dy="15">7D</tspan><tspan x="1090" dy="15">17</tspan><tspan x="1090" dy="15">11</tspan><tspan x="1090" dy="15">65</tspan><tspan x="1090" dy="15">DC</tspan><tspan x="1090" dy="15">19</tspan><tspan x="1090" dy="15">06</tspan><tspan x="1090" dy="15">F6</tspan><tspan x="1090" dy="15">3D</tspan><tspan x="1090" dy="15">57</tspan><tspan x="1090" dy="15">99</tspan><tspan x="1090" dy="15">7A</tspan><tspan x="1090" dy="15">0A</tspan><tspan x="1090" dy="15">D3</tspan><tspan x="1090" dy="15">1B</tspan><tspan x="1090" dy="15">3A</tspan><tspan x="1090" dy="15">AE</tspan><tspan x="1090" dy="15">40</tspan><tspan x="1090" dy="15">81</tspan><tspan x="1090" dy="15">F4</tspan><tspan x="1090" dy="15">1F</tspan><tspan x="1090" dy="15">B4</tspan><tspan x="1090" dy="15">71</tspan><tspan x="1090" dy="15">65</tspan></text><text class="hex" style="animation-duration:13.1s;animation-delay:-3.2s"><tspan x="1150" dy="15">3D</tspan><tspan x="1150" dy="15">57</tspan><tspan x="1150" dy="15">7A</tspan><tspan x="1150" dy="15">8C</tspan><tspan x="1150" dy="15">41</tspan><tspan x="1150" dy="15">03</tspan><tspan x="1150" dy="15">F9</tspan><tspan x="1150" dy="15">CC</tspan><tspan x="1150" dy="15">19</tspan><tspan x="1150" dy="15">8A</tspan><tspan x="1150" dy="15">7F</tspan><tspan x="1150" dy="15">89</tspan><tspan x="1150" dy="15">D8</tspan><tspan x="1150" dy="15">1A</tspan><tspan x="1150" dy="15">F2</tspan><tspan x="1150" dy="15">A5</tspan><tspan x="1150" dy="15">00</tspan><tspan x="1150" dy="15">1C</tspan><tspan x="1150" dy="15">40</tspan><tspan x="1150" dy="15">17</tspan><tspan x="1150" dy="15">3F</tspan><tspan x="1150" dy="15">19</tspan><tspan x="1150" dy="15">23</tspan><tspan x="1150" dy="15">F7</tspan><tspan x="1150" dy="15">10</tspan><tspan x="1150" dy="15">2C</tspan><tspan x="1150" dy="15">FA</tspan><tspan x="1150" dy="15">A1</tspan><tspan x="1150" dy="15">50</tspan><tspan x="1150" dy="15">A1</tspan><tspan x="1150" dy="15">24</tspan><tspan x="1150" dy="15">B3</tspan><tspan x="1150" dy="15">C5</tspan><tspan x="1150" dy="15">C7</tspan></text></g>
+<g><rect x="-28" y="0" width="1260" height="14" fill="url(#stripe)"><animateTransform attributeName="transform" type="translate" from="0 0" to="28 0" dur="1s" repeatCount="indefinite"/></rect></g>
+<g><rect x="-28" y="446" width="1260" height="14" fill="url(#stripe)"><animateTransform attributeName="transform" type="translate" from="28 0" to="0 0" dur="1s" repeatCount="indefinite"/></rect></g>
 
-  <defs>
+<g class="flick">
+<g>
+<text x="50" y="58" class="hud">⚠ INTRUSION DETECTED<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.42;.45;.92;1" dur="14s" repeatCount="indefinite"/></text>
+<text x="50" y="58" class="ok">✔ THREAT NEUTRALIZED<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.42;.45;.92;1" dur="14s" repeatCount="indefinite"/></text>
+</g>
+<text x="1150" y="58" text-anchor="end" class="hud" opacity=".75">SEC-LEVEL: CRITICAL<animate attributeName="opacity" values=".9;.2;.9" dur="1s" repeatCount="indefinite"/></text>
 
-    <!-- Background -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#030712"/>
-      <stop offset="50%" stop-color="#07111F"/>
-      <stop offset="100%" stop-color="#0B1220"/>
-    </linearGradient>
+<text x="50" y="150" class="t name">SHREYASH CHAVAN</text>
+<text x="50" y="150" class="name g1">SHREYASH CHAVAN</text>
+<text x="50" y="150" class="name g2">SHREYASH CHAVAN</text>
+<text x="52" y="204" class="sub">CYBERSECURITY EXPLORER</text>
+<rect x="50" y="218" width="0" height="2" fill="#ff2a3d"><animate attributeName="width" values="0;720;720;0" keyTimes="0;.12;.9;1" dur="14s" repeatCount="indefinite"/></rect>
 
-    <!-- Cyan / Violet glow -->
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#10B981"/>
-      <animateTransform
-        attributeName="gradientTransform"
-        type="translate"
-        values="-0.3 0;0.3 0;-0.3 0"
-        dur="8s"
-        repeatCount="indefinite"/>
-    </linearGradient>
+<g clip-path="url(#c1)"><text x="50" y="264" class="k">&gt; focus    </text><text x="180" y="264" class="v">Security · Cloud · Linux</text></g>
+<g clip-path="url(#c2)"><text x="50" y="302" class="k">&gt; learning </text><text x="180" y="302" class="a">Ethical Hacking · SOC</text></g>
+<g clip-path="url(#c3)"><text x="50" y="340" class="k">&gt; building </text><text x="180" y="340" class="v">MediScan AI · FocusLock · PetCare AI · TradePulse AI</text></g>
+<rect x="50" y="372" width="49" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="74.5" y="390" text-anchor="middle" class="chip">C++</text><rect x="109" y="372" width="58" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="138.0" y="390" text-anchor="middle" class="chip">Java</text><rect x="177" y="372" width="67" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="210.5" y="390" text-anchor="middle" class="chip">Linux</text><rect x="254" y="372" width="112" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="310.0" y="390" text-anchor="middle" class="chip">Networking</text><rect x="376" y="372" width="85" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="418.5" y="390" text-anchor="middle" class="chip">Android</text><rect x="471" y="372" width="94" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="518.0" y="390" text-anchor="middle" class="chip">Firebase</text><rect x="575" y="372" width="49" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="599.5" y="390" text-anchor="middle" class="chip">Git</text><rect x="634" y="372" width="40" height="26" rx="3" fill="none" stroke="#ff2a3d" stroke-opacity=".55"/><text x="654.0" y="390" text-anchor="middle" class="chip">AI</text>
+<text x="50" y="428" class="k" font-size="14">root@shreyash:~# <tspan class="ok" font-size="14">./defend --all</tspan></text>
+<rect class="cur" x="330" y="415" width="9" height="16" fill="#ff2a3d"/>
+</g>
 
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".18"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
-
-    <clipPath id="scanClip">
-      <rect x="35" y="75" width="1110" height="500" rx="22"/>
-    </clipPath>
-
-  </defs>
-
-  <!-- Background -->
-  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
-
-  <!-- Ambient glow -->
-  <circle cx="210" cy="270" r="260" fill="url(#glow)">
-    <animate
-      attributeName="opacity"
-      values=".5;1;.5"
-      dur="5s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="950" cy="380" r="300" fill="url(#glow)">
-    <animate
-      attributeName="opacity"
-      values="1;.4;1"
-      dur="7s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Outer border -->
-  <rect x="18" y="18"
-        width="1144"
-        height="574"
-        rx="24"
-        fill="none"
-        stroke="url(#accent)"
-        stroke-width="1.5"
-        opacity=".8"/>
-
-  <!-- Terminal header -->
-  <rect x="35" y="35"
-        width="1110"
-        height="40"
-        rx="12"
-        fill="#0F172A"
-        fill-opacity=".85"
-        stroke="#334155"
-        stroke-width="1"/>
-
-  <!-- Terminal buttons -->
-  <circle cx="58" cy="55" r="6" fill="#EF4444"/>
-  <circle cx="78" cy="55" r="6" fill="#EAB308"/>
-  <circle cx="98" cy="55" r="6" fill="#22C55E"/>
-
-  <text x="125" y="60"
-        fill="#94A3B8"
-        font-family="monospace"
-        font-size="14">
-    shreyash@security:~$
-  </text>
-
-  <text x="1020" y="60"
-        fill="#10B981"
-        font-family="monospace"
-        font-size="13">
-    ● ONLINE
-  </text>
-
-  <!-- LEFT PANEL -->
-  <rect x="35" y="90"
-        width="405"
-        height="485"
-        rx="20"
-        fill="#0F172A"
-        fill-opacity=".55"
-        stroke="#334155"
-        stroke-width="1"/>
-
-  <text x="60" y="125"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="13"
-        letter-spacing="3">
-    VISUAL.MAP
-  </text>
-
-  <!-- Cybersecurity shield -->
-  <path d="M238 155
-           L305 180
-           L305 245
-           C305 300 270 335 238 350
-           C206 335 171 300 171 245
-           L171 180 Z"
-        fill="#07111F"
-        stroke="url(#accent)"
-        stroke-width="3">
-
-    <animate
-      attributeName="opacity"
-      values=".65;1;.65"
-      dur="3s"
-      repeatCount="indefinite"/>
-  </path>
-
-  <!-- Shield lock -->
-  <rect x="215" y="235"
-        width="46"
-        height="38"
-        rx="7"
-        fill="#22D3EE"
-        fill-opacity=".15"
-        stroke="#22D3EE"
-        stroke-width="2"/>
-
-  <path d="M224 235
-           V221
-           C224 201 252 201 252 221
-           V235"
-        fill="none"
-        stroke="#22D3EE"
-        stroke-width="4"/>
-
-  <circle cx="238" cy="252" r="4" fill="#22D3EE"/>
-
-  <!-- Scanning line -->
-  <rect x="80" y="160"
-        width="315"
-        height="2"
-        fill="#22D3EE"
-        opacity=".55">
-    <animate
-      attributeName="y"
-      values="150;350;150"
-      dur="4s"
-      repeatCount="indefinite"/>
-  </rect>
-
-  <text x="238" y="385"
-        text-anchor="middle"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="25"
-        font-weight="bold">
-    CYBERSECURITY
-  </text>
-
-  <text x="238" y="414"
-        text-anchor="middle"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="18">
-    EXPLORER
-  </text>
-
-  <text x="238" y="455"
-        text-anchor="middle"
-        fill="#94A3B8"
-        font-family="monospace"
-        font-size="13">
-    LEARNING • BUILDING • SECURING
-  </text>
-
-  <!-- Terminal command -->
-  <text x="65" y="510"
-        fill="#10B981"
-        font-family="monospace"
-        font-size="13">
-    ~/profile $ ./security.sh
-  </text>
-
-  <text x="65" y="535"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="12">
-    initializing security modules...
-  </text>
-
-  <text x="65" y="557"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="12">
-    [✓] SYSTEM READY
-  </text>
-
-  <!-- RIGHT PANEL -->
-  <rect x="465" y="90"
-        width="680"
-        height="485"
-        rx="20"
-        fill="#0F172A"
-        fill-opacity=".65"
-        stroke="#334155"
-        stroke-width="1"/>
-
-  <text x="495" y="125"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="13"
-        letter-spacing="3">
-    SYSTEM.INFO
-  </text>
-
-  <text x="495" y="158"
-        fill="#94A3B8"
-        font-family="monospace"
-        font-size="13">
-    user@security:~$ ./profile.sh
-  </text>
-
-  <!-- Name -->
-  <text x="495" y="200"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="13">
-    &gt; NAME
-  </text>
-
-  <text x="635" y="200"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="18"
-        font-weight="bold">
-    Shreyash Chavan
-  </text>
-
-  <!-- Role -->
-  <text x="495" y="235"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="13">
-    &gt; ROLE
-  </text>
-
-  <text x="635" y="235"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="16">
-    Cybersecurity Explorer
-  </text>
-
-  <!-- Focus -->
-  <text x="495" y="270"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="13">
-    &gt; FOCUS
-  </text>
-
-  <text x="635" y="270"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="15">
-    Security • Cloud • Linux
-  </text>
-
-  <!-- Learning -->
-  <text x="495" y="305"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="13">
-    &gt; LEARNING
-  </text>
-
-  <text x="635" y="305"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="15">
-    Ethical Hacking • SOC
-  </text>
-
-  <!-- Security status -->
-  <rect x="495" y="330"
-        width="610"
-        height="70"
-        rx="12"
-        fill="#07111F"
-        stroke="#1E293B"/>
-
-  <text x="515" y="357"
-        fill="#94A3B8"
-        font-family="monospace"
-        font-size="12">
-    SECURITY STATUS
-  </text>
-
-  <text x="515" y="382"
-        fill="#10B981"
-        font-family="monospace"
-        font-size="15">
-    ● ONLINE
-  </text>
-
-  <text x="660" y="382"
-        fill="#64748B"
-        font-family="monospace"
-        font-size="13">
-    SCANNING
-  </text>
-
-  <!-- Progress -->
-  <rect x="760" y="370"
-        width="300"
-        height="7"
-        rx="4"
-        fill="#1E293B"/>
-
-  <rect x="760" y="370"
-        width="0"
-        height="7"
-        rx="4"
-        fill="url(#accent)">
-    <animate
-      attributeName="width"
-      values="0;260;120;300"
-      dur="5s"
-      repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Skills -->
-  <text x="495" y="435"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="13"
-        letter-spacing="2">
-    CORE.STACK
-  </text>
-
-  <text x="495" y="465"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="14">
-    C++   Java   Linux   Networking
-  </text>
-
-  <text x="495" y="493"
-        fill="#94A3B8"
-        font-family="monospace"
-        font-size="13">
-    Android   Firebase   Git/GitHub   AI
-  </text>
-
-  <!-- Projects -->
-  <text x="495" y="530"
-        fill="#22D3EE"
-        font-family="monospace"
-        font-size="13"
-        letter-spacing="2">
-    BUILDING
-  </text>
-
-  <text x="495" y="554"
-        fill="#F8FAFC"
-        font-family="monospace"
-        font-size="13">
-    MediScan AI • FocusLock • PetCare AI • TradePulse AI
-  </text>
-
-  <!-- Cursor -->
-  <rect x="1088" y="545"
-        width="8"
-        height="15"
-        fill="#22D3EE">
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="1s"
-      repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Subtle scanline -->
-  <rect x="35" y="90"
-        width="1110"
-        height="2"
-        fill="#22D3EE"
-        opacity=".08"
-        clip-path="url(#scanClip)">
-    <animate
-      attributeName="y"
-      values="90;575;90"
-      dur="9s"
-      repeatCount="indefinite"/>
-  </rect>
-
+<!-- target -->
+<circle class="ring" cx="975" cy="235" r="90"/><circle class="ring" cx="975" cy="235" r="90" style="animation-delay:1.1s"/>
+<g class="spin"><circle cx="975" cy="235" r="118" fill="none" stroke="#ff2a3d" stroke-width="2" stroke-dasharray="40 24 8 24"/></g>
+<g class="rev"><circle cx="975" cy="235" r="98" fill="none" stroke="#ffb020" stroke-opacity=".7" stroke-dasharray="3 9"/></g>
+<line x1="835" y1="235" x2="1115" y2="235" stroke="#ff2a3d" stroke-opacity=".5"/><line x1="975" y1="95" x2="975" y2="375" stroke="#ff2a3d" stroke-opacity=".5"/>
+<g class="lock" fill="none" stroke="#ff2a3d" stroke-width="3">
+<path d="M925 205 V185 H945"/><path d="M1005 185 H1025 V205"/><path d="M925 265 V285 H945"/><path d="M1005 285 H1025 V265"/></g>
+<g transform="translate(975 235)"><path d="M0 -26 L24 -15 V8 C24 24 12 34 0 40 C-12 34 -24 24 -24 8 V-15 Z" fill="#06070a" stroke="#f2f4f8" stroke-width="2.5"/><rect x="-9" y="-2" width="18" height="15" rx="2" fill="#ff2a3d"/><path d="M-5 -2 V-8 a5 5 0 0 1 10 0 V-2" fill="none" stroke="#ff2a3d" stroke-width="2.5"/></g>
+<text x="975" y="392" text-anchor="middle" class="hud" font-size="14">TARGET LOCKED<animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></text>
+<path class="ecgbase" pathLength="100" d="M810 420 H880 L890 405 L902 435 L914 395 L924 420 H1010 L1020 408 L1032 432 L1042 400 L1052 420 H1140"/>
+<path class="ecg" pathLength="100" d="M810 420 H880 L890 405 L902 435 L914 395 L924 420 H1010 L1020 408 L1032 432 L1042 400 L1052 420 H1140"/>
+<rect width="1200" height="460" fill="url(#crt)" opacity=".5"/>
+<rect width="1200" height="460" fill="url(#vig)"/>
+</g>
+<rect x="1" y="1" width="1198" height="458" rx="17" fill="none" stroke="#ff2a3d" stroke-width="2"><animate attributeName="stroke-opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></rect>
 </svg>
